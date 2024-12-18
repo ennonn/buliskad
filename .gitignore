@@ -1,0 +1,32 @@
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+logs/
+
+# Environment/configuration files
+*.env
+config.ini
+
+# Data files
+data/raw/
+data/cleaned/
+
+# Temporary or miscellaneous files
+*.txt
+*.xlsx
+*.csv
+
+# Jupyter notebook settings (if applicable)
+.ipynb_checkpoints/
+
+# Application-specific images or assets
+app/images/
+
+# Generated or user-specific directories
+app/resources/
